@@ -49,5 +49,6 @@
 <input type="button" value="Clear All" onclick="forms.Answer.value=' ' " id="Clear">
 </form>
 </div>
+
 </body>
 </html>
